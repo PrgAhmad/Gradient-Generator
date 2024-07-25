@@ -11,7 +11,7 @@ A simple and intuitive gradient generator built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://prgahmad.github.io/Gradient-Generator/).
 
 ## How to Use
 
